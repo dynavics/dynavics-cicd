@@ -4,9 +4,16 @@
 
 pageextension 55000 CustomerListExt extends "Customer List"
 {
-    trigger OnOpenPage();
-    begin
-        Message('App published: Hello world');
-    end;
+    layout
+    {
+        addafter("No.")
+        {
+            field("Primary Contact No."; Rec."Primary Contact No.")
+            {
+                ApplicationArea = All;
+                ToolTip = 'Specifies the contact number for the customer.';
+            }
+        }
+    }
 }
 
