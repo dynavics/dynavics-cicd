@@ -16,7 +16,8 @@
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
-            "schemaUpdateMode": "ForceSync"
+            "tenant": "default",
+            "usePublicURLFromServer": true
         }
     ]
 }

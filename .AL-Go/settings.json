@@ -1,7 +1,11 @@
 {
-  "country": "us",
+  "country": "gb",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
+
+  "installApps": [
+    "dep\\*.app"
+  ],
   "repoVersion": "24.1"
 }
