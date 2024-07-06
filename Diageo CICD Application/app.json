@@ -10,7 +10,20 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "24.0.0.0"
+    },
+    {
+      "id": "9fa7f5cb-81cd-4508-93c7-50997fa1908b",
+      "name": "+Mail",
+      "publisher": "Dynavics Ltd",
+      "version": "2.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",

@@ -1,6 +1,9 @@
 {
-  "country": "us",
+  "country": "gb",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "installApps": [
+    "dep\\*.app"
+  ]
 }

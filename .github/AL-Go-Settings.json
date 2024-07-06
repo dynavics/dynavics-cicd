@@ -1,4 +1,9 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "enableCodeCop": true,
+  "enableUICop": true,
+  "customCodeCops": [
+    "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/download/v0.30.0/BusinessCentral.LinterCop.current.dll"
+  ]
 }
