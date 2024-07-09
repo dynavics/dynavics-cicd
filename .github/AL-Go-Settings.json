@@ -7,5 +7,8 @@
   "customCodeCops": [
     "https://github.com/StefanMaron/BusinessCentral.LinterCop/releases/download/v0.30.0/BusinessCentral.LinterCop.current.dll"
   ],
-  "templateSha": "a6b2e468579e02a31a9cc9a2ae178a1e6beadf00"
+  "templateSha": "a6b2e468579e02a31a9cc9a2ae178a1e6beadf00",
+  "CurrentSchedule": "0 2 * * *",
+  "NextMinorSchedule": "0 2 * * 6",
+  "NextMajorSchedule": "0 2 * * 0"
 }
