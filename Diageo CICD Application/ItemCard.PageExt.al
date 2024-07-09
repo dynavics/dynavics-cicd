@@ -8,6 +8,7 @@ pageextension 55002 "Item Card" extends "Item Card"
             {
                 ApplicationArea = All;
                 ToolTip = 'Specifies the value of the No. 2 field.', Comment = '%';
+                Caption = 'New';
             }
         }
     }
