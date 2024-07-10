@@ -2,6 +2,21 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Publish: Microsoft cloud sandbox",
+            "type": "al",
+            "request": "launch",
+            "tenant": "a86d2c8a-6032-4e60-a2d5-95838d3800cc",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "breakOnError": "ExcludeTry",
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "enableSqlInformationDebugger": true,
+            "enableLongRunningSqlStatements": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10
+        },
+        {
             "name": "Diageo: Dev_GB",
             "type": "al",
             "request": "launch",
