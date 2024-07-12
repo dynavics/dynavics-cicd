@@ -3,9 +3,8 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-
   "installApps": [
     "dep\\*.app"
   ],
-  "repoVersion": "24.1"
+  "repoVersion": "24.2"
 }
