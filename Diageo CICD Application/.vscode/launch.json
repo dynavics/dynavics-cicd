@@ -31,7 +31,6 @@
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
-            "tenant": "default",
             "usePublicURLFromServer": true
         }
     ]
