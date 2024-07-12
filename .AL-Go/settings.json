@@ -6,5 +6,5 @@
   "installApps": [
     "dep\\*.app"
   ],
-  "repoVersion": "24.3"
+  "repoVersion": "24.4"
 }
