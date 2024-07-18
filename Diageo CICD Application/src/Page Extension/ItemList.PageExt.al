@@ -5,10 +5,10 @@ pageextension 55003 "Item List" extends "Item List"
         addafter("No.")
         {
 
-            field("No. 2"; Rec."No. 2")
+            field("Common Item No."; Rec."Common Item No.")
             {
                 ApplicationArea = All;
-                ToolTip = 'Specifies the value of the No. 2 field.', Comment = '%';
+                ToolTip = 'Specifies the unique common item number that the intercompany partners agree upon.';
             }
         }
     }
